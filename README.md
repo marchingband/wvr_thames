@@ -6,12 +6,12 @@ Join us on the WVR Forum : https://groups.google.com/g/wvr-audio
 # Power
 Thames takes between 6 and 9 VDC, with a center-negative PSU. Boss pedal style PSUs work perfectly.
 
-<img src="https://github.com/marchingband/wvr_thames/blob/main/thames%20pix/IMG_3453.jpeg?raw=true" width="50%" height="50%">
+<img src="https://github.com/marchingband/wvr_thames/blob/main/images/IMG_3453.jpeg?raw=true" width="50%" height="50%">
 
 # USB MIDI
 Connect to any USB MIDI controller. WVR will power the controller.
 
-<img src="https://github.com/marchingband/wvr_thames/blob/main/thames%20pix/IMG_3452.jpeg?raw=true" width="50%" height="50%">
+<img src="https://github.com/marchingband/wvr_thames/blob/main/images/IMG_3452.jpeg?raw=true" width="50%" height="50%">
 
 # MIDI
 Using a "TYPE B" 1/8" TRS midi cable
@@ -22,11 +22,11 @@ Connect any headphones to the 1/8" stereo output. This output is not properly dr
 # Line out
 Connect any line level device to the 1/4" outputs, or to the 1/8" stereo outputs.
 
-<img src="https://github.com/marchingband/wvr_thames/blob/main/thames%20pix/IMG_3451.jpeg?raw=true" width="50%" height="50%">
+<img src="https://github.com/marchingband/wvr_thames/blob/main/images/IMG_3451.jpeg?raw=true" width="50%" height="50%">
 
 # Operation
 
-<img src="https://github.com/marchingband/wvr_thames/blob/main/thames%20pix/IMG_3450.jpeg?raw=true" width="50%" height="50%">
+<img src="https://github.com/marchingband/wvr_thames/blob/main/images/IMG_3450.jpeg?raw=true" width="50%" height="50%">
 
 The LEDs display the volume by default. The volume is a number from 0 to 127. The LEDs will fade to display the volume. Turning the encoder changes the volume. The volume always starts at the `global volume` value which is set in the UI. The default global volume is 96 (3/4 of max).
 
