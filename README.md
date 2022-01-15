@@ -1,6 +1,8 @@
 # Thames : WVR in a Pedal
 
 Thames is an open-source midi instrument. It comes pre-loaded with some instruments, but it's easy to make your own too. You can even setup what the buttons and encoder do, and control the LEDs, by writting some custom Arduino code.  
+
+For information about working with WVR generally please read the documentation here : https://github.com/marchingband/wvr  
 Join us on the WVR Forum : https://groups.google.com/g/wvr-audio  
 
 # Power
