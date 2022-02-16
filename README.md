@@ -83,3 +83,24 @@ Now WVR is in Recovery Mode, any additional firmware will not boot, the wifi wil
 # Features
 If you have an idea for a feature that you would like to see implemented for Thames, feel free to request it! Create an ISSUE in the menu at the top of this page, and desribe the feature. If you don't use GitHub, you could also join the WVR_AUDIO forum and descrive the feature request there. I will respond ASAP, and if it seems like something others would enjoy, then I will do my best to make it happen!  
 WVR can store up to 10 firmwares, and so can your Thames. It's exciting to imagine a Thames pedal with multiple different firmwares which do various things, all saved in a pedal :)
+
+# Steps to upload the instruments if they are deleted or for whatever reason
+1) A .zip file with all the sounds is here : https://drive.google.com/file/d/1lrP6Zo6e3F98bXSepCVfr1BX1z2nPVb4. Download and unpack it.
+
+2) In the WVR UI, select all the notes from C2 to D#7. To accomplish this click the left arrow until you see C2, and click it, them use the right arrow until you see D#7, and shift-click it.
+
+3) Shift-click "select files", and select the wurlitzer folder. Click Upload. Wait for the files to appear, it may take a few seconds. Set note-off to HALT. Set response-curve to LINEAR
+
+4) Select Voice 2. Select notes E2 to C#3.
+
+5) Shift-click "select files", and select the drum_kit folder. Click Upload. Wait for the files to appear, it may take a few seconds. Set note-off to IGNORE. Set response-curve to LINEAR
+
+6) Select Voice 3. Select notes E2 to C#3.
+
+7) The 2 electronic kits are not multisampled, so they are not racks, so do not shift-click (rack upload), but just normal-click "select files". Open the 808 folder, and select all the files, and click "Open".  Set note-off to IGNORE. Set response-curve to LINEAR
+
+8) Select Voice 4. Select notes E2 to C#3.
+
+9) Open the clsc folder, and select all the files, and click "Open".  Set note-off to IGNORE. Set response-curve to LINEAR
+
+10) Click "SYNC". This process may take a very long time, there is well over a GB of data to be processed, transferred over wifi, catalogued, and stored to eMMC memory. It may take over an hour to complete!
