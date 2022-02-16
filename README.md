@@ -93,7 +93,7 @@ WVR can store up to 10 firmwares, and so can your Thames. It's exciting to imagi
 
 4) Select Voice 2. Select notes E2 to C#3.
 
-5) Shift-click "select files", and select the drum_kit folder. Click Upload. Wait for the files to appear, it may take a few seconds. Set note-off to IGNORE. Set response-curve to LINEAR
+5) Shift-Click "select files", and select the drum_kit folder. Click Upload. Wait for the files to appear, it may take a few seconds. Set note-off to IGNORE. Set response-curve to LINEAR
 
 6) Select Voice 3. Select notes E2 to C#3.
 
